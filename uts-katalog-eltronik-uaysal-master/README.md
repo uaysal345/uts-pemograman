@@ -1,4 +1,4 @@
-## UTS Katalog Laptop || Mita Nadia Sukmawanti
+## UTS Katalog eletronik II uaysal qarny
 
 Contoh aplikasi android sederhana dengan 2 activity yang mendemonstrasikan:
 * Cara mengirim informasi dari satu activity ke activity lainnya melalui extra pada Intent, 
